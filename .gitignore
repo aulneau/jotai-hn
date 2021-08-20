@@ -1,0 +1,5 @@
+.idea
+.next
+node_modules
+yalc.lock
+.yalc
